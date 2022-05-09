@@ -1,0 +1,29 @@
+@font-face{
+    font-family: TodaySB-Bold;
+    src: url(fuentes/TodaySB-Bold.ttf);
+}
+
+@font-face{
+    font-family: MuseoSans300Regular;
+    src: url(fuentes/MuseoSans300Regular.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-Bold;
+    src: url(fuentes/Montserrat-Bold.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-Light;
+    src: url(fuentes/Montserrat-Light.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-Medium;
+    src: url(fuentes/Montserrat-Medium.ttf);
+}
+
+@font-face{
+    font-family: Montserrat-SemiBold;
+    src: url(fuentes/Montserrat-SemiBold.ttf);
+}
