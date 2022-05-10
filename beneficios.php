@@ -24,49 +24,40 @@
         <div class="contenedor">            
             <?php include "menuservicios.php" ?>
             <div class="descripcion">                
-                <div class="prevsocial">
+                <div class="beneficios">
                     <div class="detalle">
                         <div class="titulo"><h1>BENEFICIOS</h1></div>
-                        <p style="color:var(--plomopie);font-weight: bold;">Entérate de los servicios que ofrecemos y elije el plan anual que desees.</p>
-                        <ul>
-                            <li>
-                                <span>Ayuda económica por maternidad</span>
-                                <p>Se confiere hasta los 90 días posteriores a dar a luz, dirigido a la persona que tenga la condición de socia, esposa o conviviente del afiliado.</p>
-                            </li>
-                            <li>
-                                <span>Fondo mortuorio</span>
-                                <p>Se da por una sola vez, por el fallecimiento del socio o cualquiera de las personas que se indique en la declaración jurada en vigencia.</p>
-                            </li>
-                            <li>
-                                <span>Ayuda económica en caso de invalidez temporal</span>
-                                <p>Dirigida a los socios que han tenido un accidente que le imposibilita al socio desarrollar sus funciones cotidianas por un periodo mínimo de veinte días.</p>
-                            </li>
-                            <li>
-                                <span>Prestaciones de atenciones odontológicas y médicas</span>
-                                <p>Atendemos a nuestros socios una vez por mes en cualquiera de las atenciones médicas, sin embargo los tickets que se otorga para realizar atenciones médicas son personales, no son acumulables y no son negociables, pudiendo ser utilizados dentro del mes de la emisión del ticket.</p>
-                            </li>
-                        </ul>
                         
-                        <div class="linkplanes">
-                            <a id="planes" class="active">Entérate de nuestros planes</a>
-                            <a id="documen">Documentación</a>
+                        <div class="linkbeneficios">
+                            <a id="salud" class="active">Salud Preventiva</a>
+                            <a id="taller">Talleres y capacitaciones</a>
+                            <a id="complejo">Complejo Deportivo Miguel Navarro Pisco</a>
                         </div>
-                        <div class="planes active">
-                            <div class="plan">
-                                <p>Básico</p>
-                                <span>S/ 20</span>
-                            </div>
-                            <div class="plan">
-                                <p>Intermedio</p>
-                                <span>S/ 35</span>
-                            </div>
-                            <div class="plan">
-                                <p>Premium</p>
-                                <span>S/ 50</span>
-                            </div>
+                        <div class="salud active">
+                            <div class="medicion">
+                                <div class="medidas">
+                                    <img src="" alt="">
+                                    <span>Control de peso</span>
+                                </div>
+                                <div class="medidas">
+                                    <img src="" alt="">
+                                    <span>Medida de presión</span>
+                                </div>
+                                <div class="medidas">
+                                    <img src="" alt="">
+                                    <span>Control de glucosa</span>
+                                </div>
+                                <div class="medidas">
+                                    <img src="" alt="">
+                                    <span>Control de IMC<br>(índice de masa corporal)</span>
+                                </div>
+                            </div>                            
                         </div>
-                        <div class="documen">
-                            <a href="/docs/previsionsocial.pdf"><i class="fas fa-file-pdf"></i> Reglamento de Previsión Social</a>
+                        <div class="taller">
+                            <a href="/docs/previsionsocial.pdf"><i class="fas fa-file-pdf"></i> Taller</a>
+                        </div>
+                        <div class="complejo">
+                            <a href="/docs/previsionsocial.pdf"><i class="fas fa-file-pdf"></i> Complejo</a>
                         </div>
                     </div>
                 </div>                

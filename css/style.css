@@ -920,6 +920,16 @@ footer .msjrecursos .equipo{
       border-bottom: gray solid 1px;
   }
 
+  .titulo{
+    padding: 0 50% 0 0;
+  }
+
+  .titulo h1{
+    text-align: left;
+    padding-bottom: 3%;
+    border-bottom: 3px solid;
+  }
+
   #nosotros .contenedor .descripcion .somos .detalle .titulo{
       padding: 0 50% 0 0;      
   }
@@ -1220,6 +1230,40 @@ footer .msjrecursos .equipo{
 #servicios .contenedor .descripcion .prevsocial .detalle .documen a:hover{
     transform: scale(1.1);
     color: var(--plomopie) ;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .linkbeneficios{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .linkbeneficios a{
+    background-color: var(--green);
+    color: white;
+    padding: 1.5rem;
+    font-size: 1.7rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 0.2rem;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .medicion{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .medicion .medidas{
+    background-color: var(--plomoletra);
+    text-align: center;
+    padding: 4rem 2rem 4rem 2rem;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .medicion .medidas span{
+    font-weight: bold;
+    color: white;
+    font-size: 1.5rem;
+    padding: 1rem;
 }
 
 /* media queries */
