@@ -30,32 +30,29 @@
                     producción y prestación de servicios.</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: hasta 24 meses</li>
-                    <li>Activo Fijo: hasta 60 meses</li>
+                    <li>Capital de trabajo: Hasta 18 meses</li>
+                    <li>Activo Fijo: Hasta 60 meses</li>
                 </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Montos mayores a S/300,000.00</li>
+                    <li>Montos Hasta S/300,000.00</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
                 <h3>Persona Natural</h3>
                 <ul>
                     <li>Copia del DNI (titular y cónyuge).</li>
+                    <li>Copia del recibo de luz o agua debidamente cancelado.</li>
+                    <li>Documentos que sustenten los ingresos (últimos 6 meses).</li>
+                    <li>Documentos que certifiquen la propiedad de los bienes muebles o inmuebles del titular.</li>
                 </ul>
                 <h3>Persona Jurídica</h3>
                 <ul>
                     <li>Copia del RUC</li>
-                    <li>Copia del DNI (Representantes legales)</li>
-                    <li>Vigencias de poderes con una antigüedad máxima de 10 días</li>                        
-                    <li>Escritura de constitución de la Empresa</li>
-                    <li>Balance general, Estado de resultados del último mes y año y Flujo de caja proyectado</li>
-                </ul>
-                <h3>Ambos</h3>
-                <ul>
-                    <li>Copia del recibo de luz o agua, debidamente cancelado</li>
-                    <li>Estados financieros firmados por contador público colegiado.</li>
-                    <li>*Otros requisitos según evaluación</li>
-                </ul>
+                    <li>Copia del DNI (Representantes legales).</li>
+                    <li>Vigencias de poderes con una antigüedad máxima de 10 días.</li>                        
+                    <li>Copia del recibo de luz o agua, debidamente cancelado.</li>
+                    <li>Documentos que certifiquen la propiedad de los bienes muebles o inmuebles del titular o del aval.</li>
+                    <li>*Otros requisitos según evaluación.</li>           
                 <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
             </div>
         </div>

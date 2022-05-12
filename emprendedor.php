@@ -25,37 +25,22 @@
             <?php include "menucreditos.php" ?>
             <div class="descripcion">                
                 <div><h1>EMPRENDEDOR</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
-                <p>Financiamos tu capital de trabajo y activo fijo (bienes muebles e inmuebles),
-                    destinados a personas naturales o jurídicas que desarrollen actividades de comercio,
-                    producción y prestación de servicios.</p>
+                <p>Financiamos la compra de tu mercadería para tu negocio, adquisición de activo fijo (bienes muebles, construcción, adquisición o remodelación de tu local comercial, vivienda, etc.), destinados a personas naturales o jurídicas que desarrollen actividades de comercio, producción y prestación de servicios.</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: hasta 24 meses</li>
-                    <li>Activo Fijo: hasta 60 meses</li>
+                    <li>Capital de trabajo: Hasta 18 meses</li>                   
                 </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Montos mayores a S/300,000.00</li>
+                    <li>Montos Hasta S/20,000.00</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
-                <h3>Persona Natural</h3>
+                <h3>Requisitos</h3>
                 <ul>
-                    <li>Copia del DNI (titular y cónyuge).</li>
-                </ul>
-                <h3>Persona Jurídica</h3>
-                <ul>
-                    <li>Copia del RUC</li>
-                    <li>Copia del DNI (Representantes legales)</li>
-                    <li>Vigencias de poderes con una antigüedad máxima de 10 días</li>                        
-                    <li>Escritura de constitución de la Empresa</li>
-                    <li>Balance general, Estado de resultados del último mes y año y Flujo de caja proyectado</li>
-                </ul>
-                <h3>Ambos</h3>
-                <ul>
-                    <li>Copia del recibo de luz o agua, debidamente cancelado</li>
-                    <li>Estados financieros firmados por contador público colegiado.</li>
-                    <li>*Otros requisitos según evaluación</li>
-                </ul>
+                    <li>Copia del DNI (titular y cónyuge).</li>            
+                    <li>Copia del recibo de luz o agua debidamente cancelado.</li>
+                    <li>Documentos que sustenten los ingresos (boletas, guías, cuaderno de apuntes).</li>
+                    <li>*Otros requisitos según evaluación.</li>               
                 <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
             </div>
         </div>
