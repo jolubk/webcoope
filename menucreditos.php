@@ -17,16 +17,16 @@
         <a href="rapicoop.php">RAPICOOP</a>
     </div>
     <div class="lista-enlace" id="agricola">
-        <a href="#credito-rural">CRÉDITO RURAL</a>
-        <a href="#crediagro">CREDIAGRO</a>
-        <a href="#crediefectivo-rural">CREDIEFECTIVO RURAL</a>
+        <a href="creditorural.php">CRÉDITO RURAL</a>
+        <a href="crediagro.php">CREDIAGRO</a>
+        <a href="crediefectivorural.php">CREDIEFECTIVO RURAL</a>
     </div>
     <div class="lista-enlace" id="consumo">
-        <a href="#personal">CRÉDITO PERSONAL</a>
-        <a href="#michamba">MI CHAMBA</a>
-        <a href="#cooperativo">CRÉDITO COOPERATIVO</a>
-        <a href="#crediahorro">CRÉDITOAHORRO</a>
-        <a href="#convenio">CRÉDITO CONVENIO</a>
-        <a href="#prefacil">PREFACIL</a>
+        <a href="creditopersonal.php">CRÉDITO PERSONAL</a>
+        <a href="michamba.php">MI CHAMBA</a>
+        <a href="cooperativo.php">CRÉDITO COOPERATIVO</a>
+        <a href="crediahorro.php">CRÉDITOAHORRO</a>
+        <a href="convenio.php">CRÉDITO CONVENIO</a>
+        <a href="prefacil.php">PREFACIL</a>
     </div>
 </div>
