@@ -1232,6 +1232,8 @@ footer .msjrecursos .equipo{
     color: var(--plomopie) ;
 }
 
+/*  beneficios  */
+
 #servicios .contenedor .descripcion .beneficios .detalle .linkbeneficios{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -1248,15 +1250,23 @@ footer .msjrecursos .equipo{
     margin: 0.2rem;
 }
 
+#servicios .contenedor .descripcion .beneficios .detalle .salud{
+    background-color: var(--plomoletra);
+}
+
 #servicios .contenedor .descripcion .beneficios .detalle .salud .medicion{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 #servicios .contenedor .descripcion .beneficios .detalle .salud .medicion .medidas{
-    background-color: var(--plomoletra);
     text-align: center;
     padding: 4rem 2rem 4rem 2rem;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .medicion .medidas img{
+    width: 100%;
+    height: 12rem;
 }
 
 #servicios .contenedor .descripcion .beneficios .detalle .salud .medicion .medidas span{
@@ -1264,6 +1274,37 @@ footer .msjrecursos .equipo{
     color: white;
     font-size: 1.5rem;
     padding: 1rem;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .locales{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .locales .local{
+    background-color: white;
+    margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+    text-align: center;
+    padding: 2rem 2rem 4rem 2rem;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .locales .local .tit{
+    padding: 0 0 3% 0;
+    text-align: center;
+    border-bottom: 3px solid var(--green);
+    margin: 0 15%;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .locales .local .tit span{
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: var(--blue);
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .salud .locales .local p{
+    font-size: 1.3rem;
 }
 
 /* media queries */
