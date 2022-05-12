@@ -29,9 +29,9 @@
                         <div class="titulo"><h1>BENEFICIOS</h1></div>
                         
                         <div class="linkbeneficios">
-                            <a id="salud" class="active">Salud Preventiva</a>
-                            <a id="taller">Talleres y capacitaciones</a>
-                            <a id="complejo">Complejo Deportivo Miguel Navarro Pisco</a>
+                            <a id="salud" class="active">Salud<br>Preventiva</a>
+                            <a id="taller">Talleres y<br>capacitaciones</a>
+                            <a id="complejo">Complejo Deportivo<br>Miguel Navarro Pisco</a>
                         </div>
                         <div class="salud active">
                             <div class="medicion">
@@ -51,7 +51,26 @@
                                     <img src="" alt="">
                                     <span>Control de IMC<br>(índice de masa corporal)</span>
                                 </div>
-                            </div>                            
+                            </div>
+                            <div class="locales">
+                                <div class="local">
+                                    <div class="tit"><span>Tocache</span></div>
+                                    <p>
+                                        <b>Horario de Atención</b><br>
+                                        Lunes a miércoles<br>
+                                        de 08:00 a.m. a 06:25 p.m.
+                                    </p>
+                                </div>
+                                <div class="local">
+                                    <div class="tit"><span>Uchiza</span></div>
+                                    <p>
+                                        <b>Horario de Atención</b><br>
+                                        Lunes, martes, miércoles y viernes<br>
+                                        de 08:00 a.m. a 01:00 p.m. y 03:00 p.m. a 06:30 p.m.<br>
+                                        Sábados 08:00 a.m. a 12:30 p.m.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
                         <div class="taller">
                             <a href="/docs/previsionsocial.pdf"><i class="fas fa-file-pdf"></i> Taller</a>
@@ -75,7 +94,6 @@
 
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>  
 
-    <script src="js/scryptservicios.js"></script>
     <script src="js/scrypt.js"></script>
     <!--script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></!--script-->
 
