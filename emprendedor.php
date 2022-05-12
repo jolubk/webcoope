@@ -24,11 +24,11 @@
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
             <div class="descripcion">                
-                <div><h1>CRECE NEGOCIO</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
-                <p>Te ayudamos hacer crecer tu negocio, te financiamos compra de mercadería, equipos, herramientas o lo que tu negocio necesite para crecer..</p>
+                <div><h1>EMPRENDEDOR</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
+                <p>Financiamos la compra de tu mercadería para tu negocio, adquisición de activo fijo (bienes muebles, construcción, adquisición o remodelación de tu local comercial, vivienda, etc.), destinados a personas naturales o jurídicas que desarrollen actividades de comercio, producción y prestación de servicios.</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: Hasta 12 meses</li>                    
+                    <li>Capital de trabajo: Hasta 18 meses</li>                   
                 </ul>
                 <h3>Montos</h3>
                 <ul>
@@ -37,10 +37,10 @@
                 <p>¿Cómo adquiero mi crédito?</p>
                 <h3>Requisitos</h3>
                 <ul>
-                    <li>Copia del DNI (titular y cónyuge).</li>
+                    <li>Copia del DNI (titular y cónyuge).</li>            
                     <li>Copia del recibo de luz o agua debidamente cancelado.</li>
-                    <li>Documentos que sustenten los ingresos (cuaderno de apuntes).</li>
-                    <li>*Otros requisitos según evaluación.</li>
+                    <li>Documentos que sustenten los ingresos (boletas, guías, cuaderno de apuntes).</li>
+                    <li>*Otros requisitos según evaluación.</li>               
                 <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
             </div>
         </div>

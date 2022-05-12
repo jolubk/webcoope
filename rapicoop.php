@@ -24,23 +24,23 @@
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
             <div class="descripcion">                
-                <div><h1>CRECE NEGOCIO</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
-                <p>Te ayudamos hacer crecer tu negocio, te financiamos compra de mercadería, equipos, herramientas o lo que tu negocio necesite para crecer..</p>
+                <div><h1>RAPICOOP</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
+                <p>Crédito automático que te ayuda a cubrir necesidades inmediatas para tu negocio.</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: Hasta 12 meses</li>                    
+                    <li>Capital de trabajo: Hasta 6 meses</li>                   
                 </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Montos Hasta S/20,000.00</li>
+                    <li>Hasta S/ 1,000.00</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
                 <h3>Requisitos</h3>
                 <ul>
-                    <li>Copia del DNI (titular y cónyuge).</li>
+                    <li>Copia del DNI (titular y cónyuge).</li>                    
                     <li>Copia del recibo de luz o agua debidamente cancelado.</li>
-                    <li>Documentos que sustenten los ingresos (cuaderno de apuntes).</li>
-                    <li>*Otros requisitos según evaluación.</li>
+                    <li>Estar cancelando puntualmente tu crédito principal.</li>
+                    <li>*Otros requisitos según evaluación.</li>                
                 <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
             </div>
         </div>

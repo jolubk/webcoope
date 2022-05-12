@@ -24,23 +24,35 @@
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
             <div class="descripcion">                
-                <div><h1>CRECE NEGOCIO</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
-                <p>Te ayudamos hacer crecer tu negocio, te financiamos compra de mercadería, equipos, herramientas o lo que tu negocio necesite para crecer..</p>
+                <div><h1>CREDIEMPRESA</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
+                <p>Financiamos tu capital de trabajo y activo fijo (bienes muebles e inmuebles),
+                    destinados a personas naturales o jurídicas que desarrollen actividades de comercio,
+                    producción y prestación de servicios.</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: Hasta 12 meses</li>                    
+                    <li>Capital de trabajo: Hasta 18 meses</li>
+                    <li>Activo Fijo: Hasta 60 meses</li>
                 </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Montos Hasta S/20,000.00</li>
+                    <li>Montos Hasta S/300,000.00</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
-                <h3>Requisitos</h3>
+                <h3>Persona Natural</h3>
                 <ul>
                     <li>Copia del DNI (titular y cónyuge).</li>
                     <li>Copia del recibo de luz o agua debidamente cancelado.</li>
-                    <li>Documentos que sustenten los ingresos (cuaderno de apuntes).</li>
-                    <li>*Otros requisitos según evaluación.</li>
+                    <li>Documentos que sustenten los ingresos (últimos 6 meses).</li>
+                    <li>Documentos que certifiquen la propiedad de los bienes muebles o inmuebles del titular.</li>
+                </ul>
+                <h3>Persona Jurídica</h3>
+                <ul>
+                    <li>Copia del RUC</li>
+                    <li>Copia del DNI (Representantes legales).</li>
+                    <li>Vigencias de poderes con una antigüedad máxima de 10 días.</li>                        
+                    <li>Copia del recibo de luz o agua, debidamente cancelado.</li>
+                    <li>Documentos que certifiquen la propiedad de los bienes muebles o inmuebles del titular o del aval.</li>
+                    <li>*Otros requisitos según evaluación.</li>           
                 <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
             </div>
         </div>

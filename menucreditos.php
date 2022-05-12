@@ -9,12 +9,12 @@
     </div>
     
     <div class="lista-enlace active" id="comercial">
-        <a href="#empresarial">CRÉDITO EMPRESARIAL</a>
-        <a href="#crecenegocio">CRECE NEGOCIO</a>
-        <a href="#crediempresa">CREDIEMPRESA</a>
-        <a href="#crediefectivo">CREDI EFECTIVO</a>
-        <a href="#emprendedor">CRÉDITO EMPRENDEDOR</a>
-        <a href="#rapicoop">RAPICOOP</a>
+        <a href="empresarial.php">CRÉDITO EMPRESARIAL</a>
+        <a href="crecenegocio.php">CRECE NEGOCIO</a>
+        <a href="crediempresa.php">CREDIEMPRESA</a>
+        <a href="crediefectivo.php">CREDI EFECTIVO</a>
+        <a href="emprendedor.php">CRÉDITO EMPRENDEDOR</a>
+        <a href="rapicoop.php">RAPICOOP</a>
     </div>
     <div class="lista-enlace" id="agricola">
         <a href="#credito-rural">CRÉDITO RURAL</a>
