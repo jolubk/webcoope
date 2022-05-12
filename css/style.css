@@ -1307,6 +1307,57 @@ footer .msjrecursos .equipo{
     font-size: 1.3rem;
 }
 
+#servicios .contenedor .descripcion .beneficios .detalle .taller{
+    display: none;
+}
+
+#servicios .contenedor .descripcion .beneficios .detalle .complejo{
+    display: none;
+}
+
+#servicios .contenedor .descripcion .intercoopac .coopacs{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#servicios .contenedor .descripcion .intercoopac .coopacs a{
+    background-color: var(--green);
+    color: white;
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+    margin: 0.2rem;
+}
+
+#servicios .contenedor .descripcion .pagos .detalle .convenio{
+    padding-top: 4rem;
+}
+
+#servicios .contenedor .descripcion .pagos .detalle .convenio span{
+    background-color: var(--green);
+    font-weight: bold;
+    color: white;
+    font-size: 1.7rem;
+    border-radius: 2rem;
+    padding: 1rem 7rem 1rem 7rem;
+    text-transform: uppercase;
+}
+
+#servicios .contenedor .descripcion .pagos .detalle .convenio .division{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 2rem;
+}
+
+#servicios .contenedor .descripcion .pagos .detalle .convenio .lin{
+    padding: 3% 15% 3% 15%;
+}
+
+#servicios .contenedor .descripcion .pagos .detalle .convenio .lin div{
+    border-bottom: 3px solid var(--green);
+}
+
 /* media queries */
 
 @media (max-width:1600px){  

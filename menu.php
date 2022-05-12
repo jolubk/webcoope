@@ -15,122 +15,52 @@
             <div class="menu-lat-det active" id="det-comercial">
                 <a href="empresarial.php">
                     <div>CRÉDITO EMPRESARIAL</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo o activo fijo <br> 
-                        <b>Actividades:</b> comercio, producción o servicios <br>
-                        <b>Monto:</b> más de <b>S/ 300 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>60 meses</b> para pagar
-                    </p> -->
                 </a>
-                <a href="#crecenegocio">
+                <a href="crecenegocio.php">
                     <div>CRECE NEGOCIO</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo<br> 
-                        <b>Actividades:</b> comercio, producción o servicios <br>
-                        <b>Monto:</b> hasta <b>S/ 20 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>12 meses</b> para pagar
-                    </p> -->
                 </a>
-                <a href="#crediempresa">
+                <a href="crediempresa.php">
                     <div>CREDIEMPRESA</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo o activo fijo <br> 
-                        <b>Actividades:</b> comercio, producción o servicios <br>
-                        <b>Monto:</b> hasta <b>S/ 300 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>60 meses</b> para pagar
-                    </p> -->
                 </a>
-                <a href="#crediefectivo">
+                <a href="crediefectivo.php">
                     <div>CREDI EFECTIVO</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo o activo fijo<br> 
-                        <b>Actividades:</b> comercio, producción o servicios <br>
-                        <b>Monto:</b> <b>Sujeto a evaluación</b><br>
-                        <b>Cuotas:</b> hasta <b>60 meses</b> para pagar
-                    </p> -->
                 </a>
-                <a href="#emprendedor">
+                <a href="emprendedor.php">
                     <div>CRÉDITO EMPRENDEDOR</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo<br> 
-                        <b>Actividades:</b> comercio, producción o servicios <br>
-                        <b>Monto:</b> hasta <b>S/ 20 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>18 meses</b> para pagar
-                    </p> -->
                 </a>
-                <a href="#rapicoop">
+                <a href="rapicoop.php">
                     <div>RAPICOOP</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo<br> 
-                        <b>Actividades:</b> comercio, producción o servicios <br>
-                        <b>Monto:</b> hasta <b>S/ 1 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>6 meses</b> para pagar
-                    </p> -->
                 </a>
             </div>
             <div class="menu-lat-det" id="det-agricola">
                 <a href="#credito-rural">
                     <div>CRÉDITO RURAL</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo o activo fijo <br> 
-                        <b>Actividades:</b> agrícolas o pecuarias<br>
-                        <b>Monto:</b> Desde <b>S/ 500.00</b><br>
-                        <b>Cuotas:</b> hasta <b>60 meses</b> para pagar
-                    </p> -->
                 </a>
                 <a href="#crediagro">
                     <div>CREDIAGRO</div>
-                    <!-- <p>Este crédito está dirigido a los socios que pertenecen a las asociaciones que cuentan con fondos de PRODATU<br>
-                        <b>Monto:</b> Sujeto a evaluación crediticia y a la autorización de la asociación a la que pertenece<br>
-                        <b>Cuotas:</b> hasta <b>12 meses</b> para pagar
-                    </p> -->
                 </a>
                 <a href="#crediefectivo-rural">
                     <div>CREDIEFECTIVO RURAL</div>
-                    <!-- <p><b>Destino:</b> capital de trabajo o activo fijo <br> 
-                        <b>Actividades:</b> agrícolas o pecuarias<br>
-                        <b>Monto:</b> sujeto a evaluación crediticia<br>
-                        <b>Cuotas:</b> hasta <b>60 meses</b> para pagar
-                    </p> -->
                 </a>
             </div>
             <div class="menu-lat-det" id="det-consumo">
                 <a href="#personal">
                     <div>CRÉDITO PERSONAL</div>
-                    <!-- <p><b>Destino:</b> pago de bienes o servicios de carácter personal<br> 
-                        <b>Actividades:</b> Trabajadores de empresas públicas o privadas o profesionales independientes<br>
-                        <b>Monto:</b>  hasta <b>S/ 20 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>48 meses</b> para pagar
-                    </p> -->
                 </a>
                 <a href="#michamba">
                     <div>MI CHAMBA</div>
-                    <!-- <p><b>Destino:</b> adquisición de bienes o activos para obtener ingresos adicionales<br> 
-                        <b>Actividades:</b> Trabajadores de empresas públicas o privadas<br>
-                        <b>Monto:</b>  sujeto a evaluación crediticia<br>
-                        <b>Cuotas:</b> hasta <b>60 meses</b> para pagar
-                    </p> -->
                 </a>
                 <a href="#personal">
                     <div>CRÉDITO COOPERATIVO</div>
-                    <!-- <p>Crédito dirigido a socios recurrentes y que no tengan créditos vigentes ni garantizados.<br>
-                        <b>Monto:</b>  hasta <b>95%</b> de las aportaciones<br>
-                    </p> -->
                 </a>
                 <a href="#personal">
                     <div>CREDIAHORRO</div>
-                    <!-- <p>Es un crédito automático, respaldado por ahorros en la modalidad de plazo fijo.<br>
-                        <b>Monto:</b> hasta el <b>90%</b> del depósito a plazo fijo<br>
-                        <b>Cuotas:</b> hasta <b>60 meses</b> para pagar
-                    </p> -->
                 </a>
                 <a href="#personal">
                     <div>CRÉDITO CONVENIO</div>
-                    <!-- <p><b>Destino:</b> necesidades inmediatas de libre inversión o gasto<br> 
-                        <b>Actividades:</b> trabajadores de instituciones públicas o privadas que mantienen convenio de descuento por planilla con la COOPACT<br>
-                        <b>Monto:</b> hasta <b>S/ 80 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>72 meses</b> para pagar
-                    </p> -->
                 </a>
                 <a href="#personal">
                     <div>PRÉFACIL</div>
-                    <!-- <p><b>Destino:</b> Crédito automático que te ayuda a cubrir tus gastos personales o familiares<br> 
-                        <b>Monto:</b> hasta <b>S/ 1 000.00</b><br>
-                        <b>Cuotas:</b> hasta <b>8 meses</b> para pagar
-                    </p> -->
                 </a>
             </div>
         </div>
