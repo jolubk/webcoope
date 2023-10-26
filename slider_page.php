@@ -1,8 +1,9 @@
 <div class="swiper page-slider">
     <div class="swiper-wrapper wrapper">
         <div class="swiper-slide slide">
-            <div class="image">
-                <img src="img/empresarial.png" alt="Credito Empresarial" align="middle">
+            <div class="image ahorro">
+            <img class="banner_fondo" src="./img/promociones/plazofijo/base.jpg"/>
+                    <img class="banner_logo" src="./img/promociones/plazofijo/logo.png"/>
             </div>
         </div>
     </div>
