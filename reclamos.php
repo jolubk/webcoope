@@ -14,7 +14,7 @@
     </form> -->
 
     <section class="page" id="reclamos">
-        <?php include "slider_page.php" ?>
+        <?php include "slider_page_f.php" ?>
 
         <?php include "menu.php" ?>
 

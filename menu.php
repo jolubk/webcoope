@@ -33,33 +33,33 @@
                 </a>
             </div>
             <div class="menu-lat-det" id="det-agricola">
-                <a href="#credito-rural">
+                <a href="creditorural.php">
                     <div>CRÉDITO RURAL</div>
                 </a>
-                <a href="#crediagro">
+                <a href="crediagro.php">
                     <div>CREDIAGRO</div>
                 </a>
-                <a href="#crediefectivo-rural">
+                <a href="crediefectivorural.php">
                     <div>CREDIEFECTIVO RURAL</div>
                 </a>
             </div>
             <div class="menu-lat-det" id="det-consumo">
-                <a href="#personal">
+                <a href="personal.php">
                     <div>CRÉDITO PERSONAL</div>
                 </a>
-                <a href="#michamba">
+                <a href="michamba.php">
                     <div>MI CHAMBA</div>
                 </a>
-                <a href="#personal">
+                <a href="cooperativo.php">
                     <div>CRÉDITO COOPERATIVO</div>
                 </a>
-                <a href="#personal">
+                <a href="crediahorro.php">
                     <div>CREDIAHORRO</div>
                 </a>
-                <a href="#personal">
+                <a href="convenio.php">
                     <div>CRÉDITO CONVENIO</div>
                 </a>
-                <a href="#personal">
+                <a href="prefacil.php">
                     <div>PRÉFACIL</div>
                 </a>
             </div>
