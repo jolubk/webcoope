@@ -2,7 +2,7 @@
     <div class="swiper-wrapper wrapper">
         <div class="swiper-slide slide">
             <div class="image ahorro">
-            <img class="banner_fondo" src="./img/promociones/plazofijo/base.jpg"/>
+                    <img class="banner_fondo" src="./img/promociones/plazofijo/base.jpg"/>
                     <img class="banner_logo" src="./img/promociones/plazofijo/logo.png"/>
             </div>
         </div>

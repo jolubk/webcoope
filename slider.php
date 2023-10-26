@@ -1,6 +1,21 @@
 <div class="swiper home-slider">
     <div class="swiper-wrapper wrapper">
         <div class="swiper-slide slide">
+             <a class="enlace-navicoop" href="./img/navicop/basesNavicoop.pdf" target="_blank">
+            <div class="image navicop">
+               
+                <img src="img/navicop/fondo.jpg" alt="">
+                
+            </div>
+            <div class="image navicop-datos">
+                 <img  src="img/navicop/datos.png" alt="">
+            </div>
+            <div class="image navicop-premios">
+                 <img  src="img/navicop/premios.png" alt="">
+            </div>
+            </a>
+        </div>
+        <div class="swiper-slide slide">
             <div class="image">
                 <img src="img/1.png" alt="">
             </div>

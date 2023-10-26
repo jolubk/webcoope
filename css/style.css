@@ -1541,6 +1541,7 @@ footer .msjrecursos .equipo{
     .home .tab-vertical .content{
         width: 60%;
     }
+    
 }
 
 
@@ -1586,5 +1587,39 @@ footer .msjrecursos .equipo{
     
     .page .page-slider .wrapper .slide .image img{
         top: 20px;
+    }
+}
+.navicop{
+    position:relative;
+    height: 100%;
+}
+.navicop img{
+    display: block;
+    height: 100%;
+}
+.navicop-datos{
+    position:absolute;
+    z-index: 100;
+    height: 100px;
+    top:20px;
+    animation: crecimiento 1s ease-in-out;
+}
+.navicop-premios{
+    position:absolute;
+    z-index: 500;
+    top:90px;
+    height: 100% !important;
+    animation: crecimiento 1s ease-in-out;
+}
+.navicoop{
+    display: block;
+    position: relative;
+}
+@keyframes crecimiento {
+    0% {
+        transform: scale(0.25);
+    }
+    100% {
+        transform: scale(1);
     }
 }
