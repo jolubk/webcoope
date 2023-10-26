@@ -223,7 +223,7 @@ header .icons #menu-bars{
 }
 
 .home .home-slider .slide .aparece.flota.active,
-.home .home-slider .slide .aparece.flota:hover{
+.home .home-slider .slide .aparece.flota{
     opacity: 1;
     transition: opacity 7s;
     -webkit-transition: opacity 7s;
@@ -246,7 +246,7 @@ header .icons #menu-bars{
 }
 
 .home .home-slider .slide .aparece2.flota.active,
-.home .home-slider .slide .aparece2.flota:hover{
+.home .home-slider .slide .aparece2.flota{
     opacity: 1;
     transition: opacity 7s;
     -webkit-transition: opacity 7s;
