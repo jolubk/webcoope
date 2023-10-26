@@ -11,7 +11,7 @@
     <nav class="navbar">
         <a href="nosotros.php">NOSOTROS</a>
         <a href="canales.php">CANALES DE ATENCIÓN</a>
-        <a class="online" href="https://zonasegura.coopactocache.com.pe"><i class='fas fa-lock'></i> ACCESO EN LINEA</a>
+        <a class="online" href="https://zonasegura.coopactocache.com.pe"><i class='fas fa-lock'></i> SOCIO EN LINEA</a>
     </nav>
 
 </header>
