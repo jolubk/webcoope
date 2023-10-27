@@ -15,11 +15,7 @@
             </div>
             </a>
         </div>
-        <div class="swiper-slide slide">
-            <div class="image">
-                <img src="img/1.png" alt="">
-            </div>
-        </div>
+       
 
         <div class="swiper-slide slide">
             <div class="image">
@@ -39,6 +35,11 @@
                 <img src="img/3.png" alt="">
                 <div class="aparece flota" style="left:0%;"><img src="img/3-1.png" alt=""></div>
                 <div class="aparece2 flota"><img src="img/3-2.png" alt=""></div>
+            </div>
+        </div>
+        <div class="swiper-slide slide">
+            <div class="image">
+                <img src="img/1.png" alt="">
             </div>
         </div>
     </div>
