@@ -15,11 +15,6 @@
             </div>
             </a>
         </div>
-        <div class="swiper-slide slide">
-            <div class="image">
-                <img src="img/1.png" alt="">
-            </div>
-        </div>
 
         <div class="swiper-slide slide">
             <div class="image">
