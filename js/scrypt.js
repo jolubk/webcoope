@@ -92,6 +92,28 @@ swiper.on('slideChange', function () {
   }else{
     elem.forEach(function(el){el.classList.remove('active');});
   }
+
+  var elem = document.querySelectorAll(".navicop-premios");
+  var elem2 = document.querySelectorAll(".navicop-datos");
+  if(swiper.activeIndex%2==1){
+    elem.forEach(function(el){el.classList.add('zoomefect');});
+    elem2.forEach(function(el){el.classList.add('zoomefect');});
+  }else{
+    elem.forEach(function(el){el.classList.remove('zoomefect');});
+    elem2.forEach(function(el){el.classList.remove('zoomefect');});
+  }
+   
+  var ctitulo = document.querySelectorAll(".cuenta_cts_titulo");
+  var cdeta = document.querySelectorAll(".cuenta_cts_detalle");
+  if(swiper.activeIndex==5){
+    ctitulo.forEach(function(el){el.classList.add('zoomefect');});
+    cdeta.forEach(function(el){el.classList.add('zoomefect');});
+  }else{
+    ctitulo.forEach(function(el){el.classList.remove('zoomefect');});
+    cdeta.forEach(function(el){el.classList.remove('zoomefect');});
+  }
+
+ 
   
 });
 

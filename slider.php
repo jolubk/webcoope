@@ -1,22 +1,18 @@
 <div class="swiper home-slider">
     <div class="swiper-wrapper wrapper">
         <div class="swiper-slide slide">
-             <a class="enlace-navicoop" href="./img/navicop/basesNavicoop.pdf" target="_blank">
+            <a class="enlace-navicoop" href="./img/navicop/basesNavicoop.pdf" target="_blank">
             <div class="image navicop">
-               
                 <img src="img/navicop/fondo.jpg" alt="">
-                
             </div>
-            <div class="image navicop-datos">
-                 <img  src="img/navicop/datos.png" alt="">
+            <div class="image navicop-datos animate__animated  animate__bounceInDown">
+                <img  src="img/navicop/datos.png" alt="">
             </div>
-            <div class="image navicop-premios">
-                 <img  src="img/navicop/premios.png" alt="">
+            <div class="image navicop-premios animate__animated animate__zoomInDown">
+                <img  src="img/navicop/premios.png" alt="">
             </div>
             </a>
         </div>
-       
-
         <div class="swiper-slide slide">
             <div class="image">
                 <img src="img/SOAT.jpg" alt="">                
@@ -24,7 +20,6 @@
             <div class="aparece flota"><img src="img/2-1.png" alt=""></div>
             <div class="aparece2 flota"><img src="img/2-2.png" alt=""></div>
         </div>
-
         <div class="swiper-slide slide">
             <div class="image">
                 <img src="img/HORARIO-CONTINUO-EFECTICASH-1.png" alt="">
@@ -38,8 +33,16 @@
             </div>
         </div>
         <div class="swiper-slide slide">
-            <div class="image">
-                <img src="img/1.png" alt="">
+            <div class="image ">
+                    <img class="cuenta_cts cuenta_cts_imagen" src="./img/cuentacts/base.jpg"/>
+                    <h1 class="cuenta_cts cuenta_cts_titulo animate__animated">
+                    CUENTA CTS.
+                    </h1>
+                    
+                    <h1 class="cuenta_cts cuenta_cts_detalle animate__animated">
+                    AHORRA TU CTS CON NOSOTROS Y VE CRECER TU DINERO.
+                    </h1>
+                    <img class="cuenta_cts cuenta_cts_porcentaje animate__animated" src="./img/cuentacts/porcentaje.png"/>
             </div>
         </div>
     </div>
