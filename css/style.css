@@ -194,7 +194,7 @@ header .icons #menu-bars{
 .page .page-slider .slide,
 .home .home-slider .slide{
     display: flex;
-    align-items: center;
+    align-items: stretch;
     flex-wrap: wrap;
     gap: 2rem;
     padding-top: 9rem;
@@ -225,7 +225,7 @@ header .icons #menu-bars{
 .home .home-slider .slide .aparece.flota.active,
 .home .home-slider .slide .aparece.flota:hover{
     opacity: 1;
-    transition: opacity 7s;
+    transition: opacity 1s;
     -webkit-transition: opacity 7s;
     -moz-transition: opacity 7s;
     -o-transition: opacity 7s;
@@ -248,7 +248,7 @@ header .icons #menu-bars{
 .home .home-slider .slide .aparece2.flota.active,
 .home .home-slider .slide .aparece2.flota:hover{
     opacity: 1;
-    transition: opacity 7s;
+    transition: opacity 1s;
     -webkit-transition: opacity 7s;
     -moz-transition: opacity 7s;
     -o-transition: opacity 7s;
@@ -1620,30 +1620,25 @@ footer .msjrecursos .equipo{
 }
 .navicop{
     position:relative;
-    height: 100%;
 }
 .navicop img{
     display: block;
-    height: 100%;
 }
 .navicop-datos{
     position:absolute;
     z-index: 100;
-    height: 100px;
-    top:20px;
-    animation: crecimiento 1s ease-in-out;
+    top:20px; 
 }
 .navicop-premios{
     position:absolute;
     z-index: 500;
     top:90px;
     height: 100% !important;
+}
+.zoomefect{
     animation: crecimiento 1s ease-in-out;
 }
-.navicoop{
-    display: block;
-    position: relative;
-}
+
 @keyframes crecimiento {
     0% {
         transform: scale(0.25);
@@ -1651,4 +1646,60 @@ footer .msjrecursos .equipo{
     100% {
         transform: scale(1);
     }
+}
+.banner_texto{
+    position: absolute;
+    right: 5%;
+    top:50%;
+    font-size: 6rem;
+}
+.subtitulo{
+    color:#002856;
+    font-size: 4rem;
+    top:60%;
+}
+.bloque_verde{
+    background-color: #77BC1F;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+}
+.bloque_verde>div{
+    background-color: #1D2646;
+    height: 20px;
+    width: 180px;
+}
+.tree_column{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 2rem;;
+    align-items: center;
+    gap:25px;
+}
+.tree_column h1{
+    color:#1D2646;
+    margin:20px 0;
+}
+.tree_column li{
+    font-size: 1.5rem;
+    margin: 15px 0;
+}
+.cuenta_cts{
+    position: absolute;
+}
+.cuenta_cts_titulo{
+    top:130%;
+    z-index: 99000;
+    color:white;
+    font-size: 5rem;
+    padding-left: 20px;
+}
+
+.cuenta_cts_detalle{
+    top:180%;
+    z-index: 999000;
+    color:#77BC1F;
+    font-size: 3rem;
+    margin-top: 20px;
+    padding-left: 20px;
 }
