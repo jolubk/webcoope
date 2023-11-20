@@ -1551,6 +1551,35 @@ footer .msjrecursos .equipo{
         font-size: 35%;
     }
 
+    header a.logo img{
+        width: 90px;
+    }
+
+    footer .enlaces{
+        display: block;
+        width: 100%;
+    }
+
+    footer .enlaces .nav{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    footer .msjrecursos{
+        display: block;
+    }
+
+    footer .msjrecursos .mensaje{
+        width: 100%;
+        padding: 0;
+        text-align: center;
+    }
+
+    footer .msjrecursos .equipo{
+        width: 100%;
+        text-align: center;
+    }
+
     .home .tab-vertical{
         padding: 1rem;
     }
