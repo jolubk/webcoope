@@ -14,7 +14,10 @@
     </form> -->
 
     <section class="page" id="nosotros">
-        <?php include "slider_page_f.php" ?>
+        <?php
+            $urlimagen='./img/quienessomos/Banner_Quienes_Somos.jpg'
+        ?>
+        <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
@@ -49,7 +52,7 @@
                 </div>
                 <div class="division">
                     <div class="texto">
-                        <div class="solapa"><div>PROPÓSITO</div></div>
+                        <div class="solapa">PROPÓSITO</div>
                         <div class="mision">
                             <h2>MISIÓN</h2>
                             <P>Brindar servicios financieros y
@@ -72,10 +75,14 @@
                                 y solidario.</P>
                         </div>
                     </div>
-                    <div class="imagen"></div>
+                    <div class="imagen">
+                    <img src="./img/quienessomos/Mision_Vision.jpg"/>
+                    </div>
                 </div>
                 <div class="division">
-                    <div class="imagen"></div>
+                    <div class="imagen">
+                        <img src="./img/quienessomos/Valores.jpg"/>
+                    </div>
                     <div class="texto">
                         <div class="solapa"><div>VALORES</div></div>
                         <div class="lista">
@@ -108,7 +115,9 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="imagen"></div>
+                    <div class="imagen">
+                    <img src="./img/quienessomos/Principios.jpg"/>
+                    </div>
                 </div>
             </div>
         </div>

@@ -43,7 +43,8 @@
                             <div class="foto"><img src="img/ag/aguchiza.png" alt="Agencia Uchiza"></div>
                             <div class="detfoto">
                                 <br><br><span><i class="fas fa-map-marker-alt"></i> Jr. Leoncio Prado 515 - Uchiza</span>
-                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / 042-551108 Anexo 200</span>
+                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / Anexo 206</span>
+                                <br><br><span><i class="fas fa-mobile-alt"></i> 942165650 </span>
                             </div>
                         </div>
                         <p style="color: var(--green);">

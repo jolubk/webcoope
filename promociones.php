@@ -35,6 +35,9 @@
         .info h3{
             margin-top: 20px;
         }
+        .menu-detalle{
+            width:100%
+        }
     </style>
 </head>
 <body>
@@ -47,23 +50,21 @@
     </form> -->
 
     <section class="page" id="nosotros">
-        <?php include "slider_page.php" ?>
+        <?php
+            $urlimagen='./img/superahorro/Banner_Super_Ahorro.jpg'
+        ?>
+        <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
-
-
         <div class="contenedor">            
-            <div class="menu-detalle">
-                <h2>Campañas</h2>
-                <div class="lista-enlace" id="nosotros" style="display:block; padding-top:0;">
-                    <a href="promociones.php" class="active">SUPER AHORRO</a>
-                    
-                </div>
-            </div>
+            
+            
+            <?php include "menucampanas.php" ?>
+          
             <div class="descripcion">                
                 <div class="somos">
                     <div class="detalle">
-                        <div class="titulo"><h1>CON TU CUENTA A PLAZO FIJO</h1></div>
+                        <div class="titulo"><h1>SUPER AHORRO</h1></div>
                         <article class="info">
                             <div>
                                 <img class="hombre" src="./img/promociones/plazofijo/hombreAhorro.png"/>
@@ -91,11 +92,9 @@
                                     </li>
                                 
                                 </ul>
-                                <h3>Tarifario</h3>
-                                <a href="./img/promociones/plazofijo/tarifario.pdf" target="_blank">
-                                    <img class="iconoPdf" src="./img/promociones/plazofijo/iconoPdf.png"/>
-                                </a>
                                 
+                                <a class="btn_enlace" target="_blank" href="./img/superahorro/Tarifario_Super_Ahorro.pdf"><i class="far fa-file-pdf"></i><span style="font-size:16px">Tarifario</span> </a>
+                               
                             </div>
                         </article>
                        

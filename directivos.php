@@ -14,7 +14,10 @@
     </form> -->
 
     <section class="page" id="nosotros">
-        <?php include "slider_page_f.php" ?>
+        <?php
+            $urlimagen='./img/directivos/Banner_Directivos.jpg'
+        ?>
+        <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
@@ -45,21 +48,21 @@
                         </div>
                         <div class="directivo">
                             <div class="cargo">Viceresidente:</div>
-                            <div class="nombre">Luis Enrique Urruchi Reynoso</div>
+                            <div class="nombre">Elias Díaz Meza</div>
                         </div>
                         <div class="directivo">
                             <div class="cargo">Secretaria:</div>
-                            <div class="nombre">Jessica Rosita Gutierrez Amasifuen</div>
+                            <div class="nombre">Rosa Elena Madrid Cruz</div>
                         </div>
                     </div>
                     <div class="directivos">
                         <div class="directivo">
                             <div class="cargo">1er Vocal:</div>
-                            <div class="nombre">Elias Díaz Meza</div>
+                            <div class="nombre">Luis Enrique Urruchi Reynoso</div>
                         </div>
                         <div class="directivo">
                             <div class="cargo">2do Vocal:</div>
-                            <div class="nombre">Rosa Elena Madrid Cruz</div>
+                            <div class="nombre">Pedro Adolfo Figueroa Herrera </div>
                         </div>
                     </div>
                 </div>
@@ -68,17 +71,17 @@
                     <div class="directivos">
                         <div class="directivo">
                             <div class="cargo">Presidente:</div>
-                            <div class="nombre">Rodolfo David Villalobos Valqui</div>
+                            <div class="nombre">Eliseo Cueva Marin</div>
                         </div>
                         <div class="directivo">
                             <div class="cargo">Vicepresidente:</div>
-                            <div class="nombre">Eliseo Cueva Marin</div>
+                            <div class="nombre">Grimaldo Velasquez Upiachihua</div>
                         </div>
                     </div>
                     <div class="directivos">
                         <div class="directivo">
-                            <div class="cargo">Secretaria:</div>
-                            <div class="nombre">Grimaldo Velasquez Upiachihua</div>
+                            <div class="cargo">Secretario:</div>
+                            <div class="nombre">Enrique Leónidas Rojas Arcos </div>
                         </div>
                     </div>
                 </div>
@@ -87,11 +90,11 @@
                     <div class="directivos">
                         <div class="directivo">
                             <div class="cargo">Presidente:</div>
-                            <div class="nombre">Luis Enrique Urruchi Reynoso</div>
+                            <div class="nombre">Elias Díaz Meza</div>
                         </div>
                         <div class="directivo">
                             <div class="cargo">Vicepresidente:</div>
-                            <div class="nombre">Ever Peña Matos</div>
+                            <div class="nombre">Leisvith Shupingahua Chávez </div>
                         </div>
                     </div>
                     <div class="directivos">
@@ -110,13 +113,13 @@
                         </div>
                         <div class="directivo">
                             <div class="cargo">Vicepresidente:</div>
-                            <div class="nombre">Jannet Ojeda Alberco</div>
+                            <div class="nombre">Greta Domínguez Martin</div>
                         </div>
                     </div>
                     <div class="directivos">
                         <div class="directivo">
                             <div class="cargo">Secretaria:</div>
-                            <div class="nombre">Florencia Gámez Zavaleta</div>
+                            <div class="nombre">Jannet Ojeda Alberco</div>
                         </div>
                     </div>
                 </div>

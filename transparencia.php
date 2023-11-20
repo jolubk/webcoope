@@ -14,7 +14,10 @@
     </form> -->
 
     <section class="page" id="nosotros">
-        <?php include "slider_page.php" ?>
+        <?php
+            $urlimagen='./img/transparencia/Banner_Transparencia.jpg'
+        ?>
+        <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
@@ -37,25 +40,22 @@
                     </div>
                 </div>
                 <div class="division">
-                    <a class="transparencia">TASAS ACTIVAS</a>
-                    <a class="transparencia">ESTADOS FINANCIEROS</a>
-                    <a class="transparencia">TASAS PASIVAS</a>
-                    <a class="transparencia">REGLAMENTO Y TARIFARIO PREVISION SOCIAL</a>
-                    <a class="transparencia">COMISIONES</a>
-                    <a class="transparencia">ESTATUTO</a>
+                    <a target="_blank" href="./transparencia/Tasas_Activas.pdf" class="transparencia">TASAS ACTIVAS</a>
+                    <a target="_blank" href="./transparencia/Estado_Financiero_Set23.pdf"class="transparencia">ESTADOS FINANCIEROS</a>
+                    <a target="_blank" href="./transparencia/Tasas_Pasivas.pdf" class="transparencia">TASAS PASIVAS</a>
+                    <a target="_blank" href="./transparencia/Reglamento_Prevision_Social.pdf" class="transparencia">REGLAMENTO Y TARIFARIO PREVISION SOCIAL</a>
+                    <a target="_blank" href="./transparencia/Reglamento_General_Elecciones_2017.pdf"  class="transparencia">REGLAMENTO GENERAL DE ELECCIONES</a>
+                    <a target="_blank" href="./transparencia/Estatuto_2023.pdf"class="transparencia">ESTATUTO</a>
                     <a class="transparencia memoria">MEMORIA ANUAL 
                         <div class="flecha-baja"><i class="fa fa-angle-down" aria-hidden="true"></i></div>
                         <div class="flecha-sube"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
                     </a>
-                    <a class="transparencia">REGLAMENTO GENERAL COOPACT</a>
                     <div class="memorias">
-                        <a href="">Año 2021</a>
-                        <a href="">Año 2020</a>
-                        <a href="">Año 2019</a>
-                        <a href="">Año 2018</a>
-                        <a href="">Año 2017</a>
-                        <a href="">Año 2016</a>
-                        <a href="">Año 2015</a>
+                        <a target="_blank" href="./img/memorias/Memoria_Anual_2022.pdf">Año 2022</a>
+                        <a target="_blank" href="./img/memorias/Memoria_Anual_2021.pdf">Año 2021</a>
+                        <a target="_blank" href="./img/memorias/Memoria_Anual_2020.pdf">Año 2020</a>
+                        <a target="_blank" href="./img/memorias/Memoria_Anual_2019.pdf">Año 2019</a>
+                        <a target="_blank" href="./img/memorias/Memoria_Anual_2018.pdf">Año 2018</a>
                     </div>
                 </div>
             </div>

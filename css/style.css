@@ -3,7 +3,7 @@
     --green:#77BC1F;
     --black:#192a56;
     --red:#e2231a;
-    --plomoletra:#bebebe;
+    --plomoletra:#818181;
     --plomofondo:#ededed;
     --plomopie:#404040;
     --light-color:#666;
@@ -775,6 +775,7 @@ footer .msjrecursos .equipo{
 .page .contenedor .descripcion{
     width: 70%;
     color: var(--plomoletra);
+    margin-top: 20px;
 }
 
 .page .contenedor .descripcion ul{
@@ -1673,4 +1674,23 @@ footer .msjrecursos .equipo{
     font-size: 3rem;
     margin-top: 20px;
     padding-left: 20px;
+}
+.btn_enlace{
+    display:block;
+    margin-top: 25px;;
+    background: #1e40af;
+    color:white;
+    padding: 12px 8px;
+    border-radius:15px;
+    text-align: center;
+    display:flex;
+    align-items:center;
+    justify-content:center
+}
+.btn_enlace:hover{
+    background: #1e3a8a;
+}
+.btn_enlace i{
+    font-size: 22px;
+    margin-right:8px;
 }

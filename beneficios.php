@@ -14,7 +14,10 @@
     </form> -->
 
     <section class="page" id="servicios">
-        <?php include "slider_page_f.php" ?>
+        <?php
+            $urlimagen='./img/beneficios/Banner_Beneficios.jpg'
+        ?>
+        <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
@@ -36,19 +39,19 @@
                         <div class="salud active">
                             <div class="medicion">
                                 <div class="medidas">
-                                    <img src="" alt="">
+                                    <img src="./img/beneficios/control_peso.png" alt="Control Peso">
                                     <span>Control de peso</span>
                                 </div>
                                 <div class="medidas">
-                                    <img src="" alt="">
+                                    <img src="./img/beneficios/control_presion.png" alt="Control Presion">
                                     <span>Medida de presión</span>
                                 </div>
                                 <div class="medidas">
-                                    <img src="" alt="">
+                                    <img src="./img/beneficios/control_glucosa.png" alt="Control Glucosa">
                                     <span>Control de glucosa</span>
                                 </div>
                                 <div class="medidas">
-                                    <img src="" alt="">
+                                    <img src="./img/beneficios/control_imc.png" alt="Control IMC">
                                     <span>Control de IMC<br>(índice de masa corporal)</span>
                                 </div>
                             </div>

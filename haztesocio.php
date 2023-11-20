@@ -47,7 +47,10 @@
     </form> -->
 
     <section class="page" id="nosotros">
-        <?php include "slider_page_hazte_socio.php" ?>
+    <?php
+            $urlimagen='./img/haztesocio/Banner_Hazte_Socio.jpg'
+        ?>
+        <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 

@@ -14,28 +14,35 @@
     </form> -->
 
     <section class="page" id="page">
+        <?php
+            $urlimagen='./img/credicooperativo/Banner_Credi_Cooperativo.jpg'
+        ?>
         <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
         <div class="enlace">
-            <a href="">SOLICÍTALO AQUÍ</a>
+            <a href="https://api.whatsapp.com/send?phone=+51942781226&text=Solicito información de Credito Cooperativo">SOLICÍTALO AQUÍ</a>
         </div>
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
             <div class="descripcion">                
                 <div><h1>CRÉDITO COOPERATIVO</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
                 <p>Crédito dirigido a socios recurrentes y que no tengan créditos vigentes ni garantizados.</p>
+                <h3>Plazos</h3>
+                <ul>
+                    <li>Hasta 60 meses</li>                   
+                </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Hasta el 95% de las aportaciones</li>
+                    <li>Hasta el 90% de las aportaciones</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
                 <h3>Requisitos</h3>
                 <ul>
                     <li>Copia del DNI (titular y cónyuge).</li>
                     <li>Copia del recibo de luz o agua debidamente cancelado.</li>   
-                <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
+                    <div class="enlace-ad"><a href="./img/credicooperativo/Tarifario_Credi_Cooperativo.pdf" target="_blank">TARIFARIO</a></div>
             </div>
         </div>
     </section>

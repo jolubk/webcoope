@@ -14,12 +14,15 @@
     </form> -->
 
     <section class="page" id="page">
+        <?php
+            $urlimagen='./img/crediahorro/Banner_Credi_Ahorro.jpg'
+        ?>
         <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
         <div class="enlace">
-            <a href="">SOLICÍTALO AQUÍ</a>
+        <a href="https://api.whatsapp.com/send?phone=+51942781226&text=Solicito información de Credi Ahorro">SOLICÍTALO AQUÍ</a>
         </div>
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
@@ -40,7 +43,7 @@
                     <li>Copia del DNI del titular (y de los mancomunados de ser el caso).</li> 
                     <li>Certificado de depósito/contrato de depósito a plazo fijo original.</li> 
                     <li>Copia del recibo de luz o agua debidamente cancelado.</li>             
-                <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
+                    <div class="enlace-ad"><a href="./img/crediahorro/Tarifario_Credi_Ahorro.pdf" target="_blank">TARIFARIO</a></div>
             </div>
         </div>
     </section>

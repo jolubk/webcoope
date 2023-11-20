@@ -43,7 +43,8 @@
                             <div class="foto"><img src="img/ag/agjuanjui.png" alt="Agencia Juanjuí"></div>
                             <div class="detfoto">
                                 <br><br><span><i class="fas fa-map-marker-alt"></i> Jr. Huallaga 840 - Juanjuí</span>
-                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / 042-551108 Anexo 511</span>
+                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / Anexo 511</span>
+                                <br><br><span><i class="fas fa-mobile-alt"></i> 938894272 </span>
                             </div>
                         </div>
                         <p style="color: var(--green);">

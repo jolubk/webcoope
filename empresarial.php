@@ -19,28 +19,29 @@
         <?php include "menu.php" ?>
 
         <div class="enlace">
-            <a href="">SOLICÍTALO AQUÍ</a>
+            <a href="https://api.whatsapp.com/send?phone=+51942781226&text=Solicito informacion de Credi Empresa">SOLICÍTALO AQUÍ</a>
         </div>
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
             <div class="descripcion">                
-                <div><h1>CRÉDITO EMPRESARIAL</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
-                <p>Financiamos tu capital de trabajo y activo fijo (bienes muebles e inmuebles),
-                    destinados a personas naturales o jurídicas que desarrollen actividades de comercio,
-                    producción y prestación de servicios.</p>
+                <div><h1>CREDI EMPRESA</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
+                <p>Financiamos tu capital de trabajo y activo fijo (bienes muebles e inmuebles), destinados a personas naturales o jurídicas que desarrollen actividades de comercio, producción y prestación de servicios</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: hasta 24 meses</li>
+                    <li>Capital de trabajo: hasta 18 meses</li>
                     <li>Activo Fijo: hasta 60 meses</li>
                 </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Montos mayores a S/300,000.00</li>
+                    <li>Montos hasta a S/300,000.00</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
                 <h3>Persona Natural</h3>
                 <ul>
                     <li>Copia del DNI (titular y cónyuge).</li>
+                    <li>Copia del recibo de luz o agua debidamente cancelado.</li>
+                    <li>Documentos que sustenten los ingresos (últimos 6 meses).</li>
+                    <li>Documentos que certifiquen la propiedad de los bienes muebles o inmuebles del titular.</li>
                 </ul>
                 <h3>Persona Jurídica</h3>
                 <ul>
@@ -48,15 +49,11 @@
                     <li>Copia del DNI (Representantes legales)</li>
                     <li>Vigencias de poderes con una antigüedad máxima de 10 días</li>                        
                     <li>Escritura de constitución de la Empresa</li>
-                    <li>Balance general, Estado de resultados del último mes y año y Flujo de caja proyectado</li>
+                    <li>Copia del recibo de luz o agua debidamente cancelado.</li>
+                    <li>Documentos que certifiquen la propiedad de los bienes muebles o inmuebles del titular o del aval.</li>
+                    <li>*Otros requisitos según evaluación.</li>
                 </ul>
-                <h3>Ambos</h3>
-                <ul>
-                    <li>Copia del recibo de luz o agua, debidamente cancelado</li>
-                    <li>Estados financieros firmados por contador público colegiado.</li>
-                    <li>*Otros requisitos según evaluación</li>
-                </ul>
-                <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
+                <div class="enlace-ad"><a href="./img/crediempresa/Tarifario_Credi_Empresa.pdf" target="_blank">TARIFARIO</a></div>
             </div>
         </div>
     </section>

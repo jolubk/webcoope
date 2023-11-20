@@ -2,7 +2,11 @@
 <html lang="es">
 <head>
     <?php include "clases.php" ?>
-    
+<style>
+    li{
+        margin:10px 0;
+    }
+</style>
 </head>
 <body>
     <?php include "header.php" ?>
@@ -14,21 +18,25 @@
     </form> -->
 
     <section class="page" id="page">
+        <?php
+            $urlimagen='./img/crediagro/Banner_Credi_Agro.jpg'
+        ?>
         <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
         <div class="enlace">
-            <a href="">SOLICÍTALO AQUÍ</a>
+        <a href="https://api.whatsapp.com/send?phone=+51942781226&text=Solicito información de Credi Agro">SOLICÍTALO AQUÍ</a>
         </div>
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
             <div class="descripcion">                
-                <div><h1>CREDIAGRO</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
+                <div><h1 class=" text-4xl">CREDIAGRO</h1><div style="width: 30%; border-bottom: var(--green) solid 2px;"></div></div>
                 <p>Financiamos tu capital de trabajo y activo fijo (bienes muebles e inmuebles), destinados a personas naturales o jurídicas que desarrollen actividades de agrícolas o pecuarias.</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: Hasta 12 meses</li>                 
+                    <li><strong>Capital de trabajo: </strong> Hasta 18 meses</li>
+                    <li><strong>Activo Fijo:</strong> Hasta 60 meses</li>                   
                 </ul>
                 <h3>Montos</h3>
                 <ul>
@@ -43,7 +51,7 @@
                     <li>Documentos que certifiquen la propiedad inmueble del titular (tenencia de la parcela agrícola).</li> 
                     <li>Carta Aval de la Asociación a la que pertenece.</li> 
                     <li>*Otros requisitos según evaluación.</li>                                            
-                <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
+                <div class="enlace-ad"><a href="./img/crediagro/Tarifario_Credi_Agro.pdf" target="_blank">TARIFARIO</a></div>
             </div>
         </div>
     </section>

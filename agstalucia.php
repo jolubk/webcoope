@@ -43,7 +43,8 @@
                             <div class="foto"><img src="img/ag/agstalucia.png" alt="Agencia Santa Lucía"></div>
                             <div class="detfoto">
                                 <br><br><span><i class="fas fa-map-marker-alt"></i> Av. Las Palmas Mz 3 Lt 11 - Santa Lucía</span>
-                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / 042-551108 Anexo 300</span>
+                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / Anexo 300</span>
+                                <br><br><span><i class="fas fa-mobile-alt"></i> 948400327 </span>
                             </div>
                         </div>
                         <p style="color: var(--green);">

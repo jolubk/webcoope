@@ -14,12 +14,15 @@
     </form> -->
 
     <section class="page" id="page">
+        <?php
+            $urlimagen='./img/credipersonal/Banner_Credi_Personal.jpg'
+        ?>
         <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
         <div class="enlace">
-            <a href="">SOLICÍTALO AQUÍ</a>
+        <a href="https://api.whatsapp.com/send?phone=+51942781226&text=Solicito informacion de Credito Personal">SOLICÍTALO AQUÍ</a>
         </div>
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
@@ -28,11 +31,11 @@
                 <p>Te financiamos el pago de bienes o servicios de carácter personal (adquisición de artefactos, vehículos, viajes, salud, etc.), está dirigido a personas dependientes e independientes no formales que ejerzan un oficio determinado.</p>
                 <h3>Plazos</h3>
                 <ul>
-                    <li>Capital de trabajo: Hasta 48 meses</li>                   
+                    <li>Capital de trabajo: Hasta 60 meses</li>                   
                 </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Hasta S/20,000.00</li>
+                    <li>Hasta S/30,000.00</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
                 <h3>Requisitos</h3>
@@ -41,7 +44,7 @@
                     <li>Copia del recibo de luz o agua debidamente cancelado.</li>
                     <li>Original y copia de las 03 últimas boletas de remuneraciones del titular.</li>
                     <li>*Otros requisitos según evaluación.</li>             
-                <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
+                    <div class="enlace-ad"><a href="./img/credipersonal/Tarifario_Credi_Personal.pdf" target="_blank">TARIFARIO</a></div>
             </div>
         </div>
     </section>

@@ -43,7 +43,8 @@
                             <div class="foto"><img src="img/ag/agtocache.png" alt="Agencia Tocache"></div>
                             <div class="detfoto">
                                 <br><br><span><i class="fas fa-map-marker-alt"></i> Jr. San Martín 231 - Tocache</span>
-                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / 042-551108 Anexo 100</span>
+                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 /  Anexo 114</span>
+                                <br><br><span><i class="fas fa-mobile-alt"></i> 936309677 </span>
                             </div>
                         </div>
                         <p style="color: var(--green);">

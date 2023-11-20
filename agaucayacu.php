@@ -43,7 +43,8 @@
                             <div class="foto"><img src="img/ag/agaucayacu.png" alt="Agencia Aucayacu"></div>
                             <div class="detfoto">
                                 <br><br><span><i class="fas fa-map-marker-alt"></i> Jr. Lamas Mz 20 Lt 21-B - Aucayacu</span>
-                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / 042-551108 Anexo 410</span>
+                                <br><br><span><i class="fas fa-phone-alt"></i> 042-551533 / Anexo 411</span>
+                                <br><br><span><i class="fas fa-mobile-alt"></i> 948400665 </span>
                             </div>
                         </div>
                         <p style="color: var(--green);">

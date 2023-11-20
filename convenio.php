@@ -14,12 +14,15 @@
     </form> -->
 
     <section class="page" id="page">
+        <?php
+            $urlimagen='./img/crediconvenio/Banner_Credi_Convenio.jpg'
+        ?>
         <?php include "slider_page_c.php" ?>
 
         <?php include "menu.php" ?>
 
         <div class="enlace">
-            <a href="">SOLICÍTALO AQUÍ</a>
+        <a href="https://api.whatsapp.com/send?phone=+51942781226&text=Solicito informacion de Credito Convenio">SOLICÍTALO AQUÍ</a>
         </div>
         <div class="contenedor">            
             <?php include "menucreditos.php" ?>
@@ -32,7 +35,7 @@
                 </ul>
                 <h3>Montos</h3>
                 <ul>
-                    <li>Hasta S/ 80,000.00</li>
+                    <li>Hasta S/ 120,000.00</li>
                 </ul>
                 <p>¿Cómo adquiero mi crédito?</p>
                 <h3>Requisitos</h3>
@@ -41,7 +44,7 @@
                     <li>Copia del recibo de luz o agua debidamente cancelado.</li> 
                     <li>Original y copia de las 03 últimas boletas de remuneraciones del titular.</li> 
                     <li>*Otros requisitos según evaluación.</li>             
-                <div class="enlace-ad"><a>TASAS</a><a>SIMULADOR DE CRÉDITOS</a></div>
+                    <div class="enlace-ad"><a href="./img/crediconvenio/Tarifario_Credi_Convenio.pdf" target="_blank">TARIFARIO</a></div>
             </div>
         </div>
     </section>

@@ -1,8 +1,8 @@
 <div class="swiper page-slider">
     <div class="swiper-wrapper wrapper">
         <div class="swiper-slide slide">
-        <div class="image ahorro">
-            <img class="banner_fondo" src="./img/empresarial.png"/>                    
+        <div style="width: 100%;">
+            <img style="width: 100%;" class="banner_fondo" src="<?php echo($urlimagen) ?>"/>                    
         </div>
         </div>
     </div>
