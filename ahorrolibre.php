@@ -15,7 +15,7 @@
 
     <section class="page" id="page">
         <?php
-            $urlimagen='./img/ahorrolibre/Banner_Ahorro_libre.jpg'
+            $urlimagen='./img/ahorrolibre/Banner_Ahorro_Libre.jpg'
         ?>
         <?php include "slider_page_c.php" ?>
 
