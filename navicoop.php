@@ -75,8 +75,7 @@
                             
                             <div>
                             <p>En esta temporada navideña llega la campaña "𝐍𝐚𝐯𝐢𝐂𝐨𝐨𝐩 𝐓𝐨𝐜𝐚𝐜𝐡𝐞"; adquiere tu crédito con nosotros durante la campaña navideña (11 de Setiembre al 20 de Diciembre del 2023) y automáticamente 𝐩𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚 𝐝𝐞𝐥 𝐬𝐨𝐫𝐭𝐞𝐨 𝐝𝐞 𝐠𝐫𝐚𝐧𝐝𝐞𝐬 𝐩𝐫𝐞𝐦𝐢𝐨𝐬. </p>
-                                <h2>Mas detalles..</h2>
-                                <a class="btn_enlace" target="_blank" href="./img/navicop/Bases_Navicoop.pdf"><i class="far fa-file-pdf"></i> Terminos y Condiciones</a>
+                                
                             </div>
                             <img class="" src="./img/navicop/PapaNoel.jpg"/>
                         </article>
