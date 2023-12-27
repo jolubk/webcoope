@@ -1,6 +1,6 @@
 <div class="swiper home-slider">
     <div class="swiper-wrapper wrapper">
-        <div class="swiper-slide slide">
+        <!-- <div class="swiper-slide slide">
            
             <div class="image navicop">
                 <img src="img/navicop/fondo.jpg" alt="">
@@ -12,7 +12,7 @@
                 <img  src="img/navicop/premios.png" alt="">
             </div>
             </a>
-        </div>
+        </div> -->
         <div class="swiper-slide slide">
             <div class="image">
                 <img src="img/SOAT.jpg" alt="">                
